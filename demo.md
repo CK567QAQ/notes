@@ -2,9 +2,8 @@
 
 ## 	视频演示
 
-```markdown
-![实验结果](./image/demo.jpg)
 
-<video src="./video/demo.mp4" controls width="640"></video>
-```
 
+![示波器波形](image/demo.png)
+
+![示波器动态波形](video/demo.gif)
