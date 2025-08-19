@@ -1,14 +1,16 @@
-# 我的知识笔记仓库
-> 嵌入式学习与实验记录，持续更新。
+- 我的知识笔记仓库
 
-## 目录
-- [2025-08-19 张量分解笔记](./2025-08-19.md)
-- [2025-08-20 PCB 阻抗计算](./2025-08-20.md)
+  > 嵌入式学习与实验记录，持续更新。
 
-## 硬件平台
-- STM32F103C8T6
-- FreeRTOS + Modbus-RTU
+  ## 目录
+  - [2025-08-19 演示](./demo.md)
+  - [2025-08-19 SPI总线通信](./SPI.md)
 
-## 联系方式
-- GitHub: [你的GitHub主页](https://github.com/你的用户名)
-- 邮箱: you@example.com
+  ## 平台
+
+  - STM32F407IGT6	STM32CubeMX	Keil5
+  - 
+
+  ## 联系方式
+  - GitHub: [我的GitHub主页](https://github.com/CK567QAQ)
+  - 邮箱: CK567QAQ@outlook.com
